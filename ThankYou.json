@@ -15,5 +15,12 @@
       "test2",
       "hurensohnvonnebenan"
       ]
+  },
+  "Streamfire": {
+    "color": "Green",
+    "text_size": 16,
+    "members": [
+      "Streamfire",
+      ]
   }
 }
